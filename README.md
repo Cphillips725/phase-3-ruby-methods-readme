@@ -270,7 +270,6 @@ greeting
 greeting
 greeting
 ```
-
 Save your file and run it with `ruby greeting.rb`. You'll see:
 
 ```bash
